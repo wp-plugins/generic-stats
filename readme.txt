@@ -14,7 +14,7 @@ The "Generic Stats" plugin is a place for you to put all statistics tracking cod
 
 The benefit is that when swapping templates or adding (and removing) stats code, you don't need to edit your theme.
 
-You also have the option to specify which code will be put above the <body> tag, and which code will be placed BELOW the </body> tag.
+You also have the option to specify which code will be put above the &lt;body&gt; tag, and which code will be placed BELOW the &lt;/body&gt; tag.
 
 You can also prevent the stats code from being shown to admin users, to prevent the tracking of admin users.
 
