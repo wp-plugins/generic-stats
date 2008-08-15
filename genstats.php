@@ -4,7 +4,7 @@ Plugin Name: Generic Stats
 Plugin URI: http://www.geniosity.co.za/tools/wordpress/
 Description: This plugin allows you to add any stats code to either the Header of Footer of your posts.
 Author: James McMullan
-Version: 1.0
+Version: 1.1
 Author URI: http://www.geniosity.co.za/
 */
 
@@ -49,13 +49,11 @@ if ( ! class_exists( 'GenStats_Admin' ) ) {
 				}
 
 				
-				$opt = serialize($options);
-				update_option('GenStats', $opt);
+				update_option('GenStats', $options);
 
 			}
 			
-			$opt  = get_option('GenStats');
-			$options = unserialize($opt);
+			$options = get_option('GenStats');
 
 
 			?>
@@ -142,8 +140,7 @@ if ( ! class_exists( 'GenStats_Admin' ) ) {
 }
 
 function gsAddHeaderStats() {
-	$opt  = get_option('GenStats');
-	$options = unserialize($opt);
+	$options = get_option('GenStats');
 	
 	if ($options['header-stats'] != "") {
 		if (($options['disable-header-admin-stats'] && !current_user_can('edit_posts')) || !$options['disable-header-admin-stats']) {
@@ -153,8 +150,7 @@ function gsAddHeaderStats() {
 
 }
 function gsAddFooterStats() {
-	$opt  = get_option('GenStats');
-	$options = unserialize($opt);
+	$options = get_option('GenStats');
 	
 	if ($options['footer-stats'] != "") {
 		if (($options['disable-footer-admin-stats'] && !current_user_can('edit_posts')) || !$options['disable-footer-admin-stats']) {

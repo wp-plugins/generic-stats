@@ -2,9 +2,9 @@
 Contributors: geniosity
 Donate link: Currently Unavailable
 Tags: statistics
-Requires at least: 2.0.2
-Tested up to: 2.3.3
-Stable tag: 1.0
+Requires at least: 2.3
+Tested up to: 2.6
+Stable tag: 1.1
 
 A plugin that allows you to install the tracking code of various Stats programs in one place, and prevent them from tracking the admin user.
 
