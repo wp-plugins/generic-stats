@@ -53,7 +53,7 @@ For more info on this plugin, you can go to the following pages:
 
 = 1.1 =
 * 2008/05/26
-* Improved Options Page and option to automatically add the text box under the post.
+* Minor changes
 
 = 1.0 =
 * Initial Release
