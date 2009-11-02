@@ -1,6 +1,6 @@
 === Generic Stats ===
 Contributors: geniosity
-Donate link: Currently Unavailable
+Donate link: http://www.amazon.com/gp/registry/wishlist/651WOOL713YK
 Tags: statistics
 Requires at least: 2.8
 Tested up to: 2.9
@@ -45,7 +45,7 @@ For more info on this plugin, you can go to the following pages:
 == ChangeLog ==
 
 = 1.2 =
-* 2009/11/01
+* 2009/11/02
 * Updated look & feel of admin page
 * Changed to use new "get options" methods
 * Added pretty little "Plugin Appreciation" box on the Admin page
