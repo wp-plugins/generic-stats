@@ -2,9 +2,9 @@
 Contributors: geniosity
 Donate link: Currently Unavailable
 Tags: statistics
-Requires at least: 2.3
-Tested up to: 2.6
-Stable tag: 1.1
+Requires at least: 2.8
+Tested up to: 2.9
+Stable tag: 1.2
 
 A plugin that allows you to install the tracking code of various Stats programs in one place, and prevent them from tracking the admin user.
 
@@ -39,6 +39,21 @@ When you sign up for a statistics program, for example with [Google Analytics](h
 
 For more info on this plugin, you can go to the following pages:
 
-* [Announcement Page](http://www.geniosity.co.za/musings/wordpress/wordpress-generic-statistics-plugin/) - If you subscribe to the **comments feed**, you'll get update notifications as soon as I make them
-* [Plugin Page](http://www.geniosity.co.za/wordpress/generic-statistics-wordpress-plugin) - This page has more info about the plugin
-* [Forum Page](http://www.geniosity.co.za/forums/tools/wordpress/generic-stats-plugin) - You can ask questions or leave comments here
+* [geniosity Plugin Page](http://www.geniosity.co.za/tools/wordpress-hacks/generic-statistics-wordpress-plugin/) - If you subscribe to the **comments feed**, you'll get update notifications as soon as I make them
+* [Plugin Page on WordPress](http://wordpress.org/extend/plugins/generic-stats/) - You can download the plugin from this page.
+
+== ChangeLog ==
+
+= 1.2 =
+* 2009/11/01
+* Updated look & feel of admin page
+* Changed to use new "get options" methods
+* Added pretty little "Plugin Appreciation" box on the Admin page
+* Updated links to the plugin's pages
+
+= 1.1 =
+* 2008/05/26
+* Improved Options Page and option to automatically add the text box under the post.
+
+= 1.0 =
+* Initial Release
