@@ -3,8 +3,8 @@ Contributors: geniosity
 Donate link: http://www.amazon.com/gp/registry/wishlist/651WOOL713YK
 Tags: statistics
 Requires at least: 2.8
-Tested up to: 2.9
-Stable tag: 1.2
+Tested up to: 4.1.1
+Stable tag: 1.3
 
 A plugin that allows you to install the tracking code of various Stats programs in one place, and prevent them from tracking the admin user.
 
@@ -43,6 +43,11 @@ For more info on this plugin, you can go to the following pages:
 * [Plugin Page on WordPress](http://wordpress.org/extend/plugins/generic-stats/) - You can download the plugin from this page.
 
 == ChangeLog ==
+
+= 1.3 =
+* 2015/04/17
+* Removed StatCounter link
+* Updated version and WP requirements
 
 = 1.2 =
 * 2009/11/02
