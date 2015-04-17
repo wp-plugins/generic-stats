@@ -4,7 +4,7 @@ Plugin Name: Generic Stats
 Plugin URI: http://www.geniosity.co.za/tools/wordpress-hacks/generic-statistics-wordpress-plugin/
 Description: This plugin allows you to add any stats code to either the Header or Footer of your posts.
 Author: James McMullan
-Version: 1.2
+Version: 1.3
 Author URI: http://www.geniosity.co.za/
 */
 
@@ -128,7 +128,6 @@ if(!class_exists( 'GenStats_Admin')) {
                     <li><b><a href="http://pmetrics.performancing.com/480">performancing Metrics</a></b> - A free stats counter with the ability to "<b>spy on your visitors</b>"</li>
                     <li><b><a href="http://piwik.org/">piwik</a></b> - A self-hosted, free php statistics package that's going to take over the world!!!</li>
                     <li><b><a href="http://www.google.com/analytics/">Google Analytics</a></b> - A great, EXTENSIVE free stats program from Google</li>
-                    <li><b><a href="http://www.statcounter.com">StatCounter</a></b> - A handy free stats tool I use for the "<b>Recent Visitor Activity</b>" section for a quick overview of what's happening on my site</li>
                 </ul>
             </div>
             </p>
