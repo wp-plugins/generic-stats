@@ -2,7 +2,7 @@
 /*
 Plugin Name: Generic Stats
 Plugin URI: http://www.geniosity.co.za/tools/wordpress-hacks/generic-statistics-wordpress-plugin/
-Description: This plugin allows you to add any stats code to either the Header or Footer of your posts.
+Description: This plugin allows you to add any stats code to either the Header or Footer of your posts. 
 Author: James McMullan
 Version: 1.3
 Author URI: http://www.geniosity.co.za/
